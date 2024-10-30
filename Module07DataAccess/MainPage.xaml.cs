@@ -46,4 +46,9 @@ public partial class MainPage : ContentPage
             ConnectionStatusLabel.TextColor = Colors.Red;
         }
     }
+
+    private async void OpenViewPersonal(object sender, EventArgs e)
+    {
+        await Shell.Current.GoToAsync("//ViewPersonal");
+    }
 }
