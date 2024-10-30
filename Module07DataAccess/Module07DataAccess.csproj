@@ -21,6 +21,7 @@
 		<Nullable>enable</Nullable>
 
 		<!-- Display name -->
+		<!--Try-->
 		<ApplicationTitle>Module07DataAccess</ApplicationTitle>
 
 		<!-- App Identifier -->
